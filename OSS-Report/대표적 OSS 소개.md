@@ -5,16 +5,16 @@
 -> 소스코드가 공개되어 있어, 누구나 기술을 수정하고 공유할 수 있는 소프트웨어
 
 <h2>대표적인 OSS</h2><br>
-1. 리눅스(Linux)
-2. 안드로이드(Andriod)
-3. 모질라 파이어폭스(Firefox)
-4. 시몽키(SeaMonkey)
-5. 카미노(Camino)
-6. Galeon
-7. 에피파니(Epiphany)
-8. 컨커러(KonQueror)
-9. 시이라(シイラ)
-10. 구글 크롬(Google Chrome)
+1. 리눅스(Linux)<br>
+2. 안드로이드(Andriod)<br>
+3. 모질라 파이어폭스(Firefox)<br>
+4. 시몽키(SeaMonkey)<br>
+5. 카미노(Camino)<br>
+6. 갈레온(Galeon)<br>
+7. 에피파니(Epiphany)<br>
+8. 컨커러(KonQueror)<br>
+9. 시이라(シイラ)<br>
+10. 구글 크롬(Google Chrome)<br>
 
 <h2>리눅스(Linux)</h2><br>
 출시 : 1991년 9월 17일<br>
