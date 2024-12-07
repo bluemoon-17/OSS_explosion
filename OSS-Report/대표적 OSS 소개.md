@@ -7,8 +7,7 @@
 #대표적인 OSS
 1. 리눅스(Linux)  2. 안드로이드(Andriod)  3. 모질라 파이어폭스(Firefox)
 4. 시몽키(SeaMonkey)  5. 카미노(Camino)  6. Galeon
-7. 에피파니(Epiphany)  8. 컨커러(KonQueror)  9. 시이라(シイラ)
-10. 구글 크롬(Google Chrome)
+7. 에피파니(Epiphany)  8. 컨커러(KonQueror)  9. 시이라(シイラ)  10. 구글 크롬(Google Chrome)
 
 ##리눅스(Linux)
 출시 : 1991년 9월 17일
