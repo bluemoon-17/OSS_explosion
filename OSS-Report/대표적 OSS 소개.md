@@ -21,8 +21,8 @@
 개발자 : 리누스 토르발리스<br>
 프로그래밍 언어 : C언어, 어셈블리어<br>
 OS 계열 : 유닉스 계열<br>
-<https://www.kernel.org/><br>
-<https://www.linuxfoundation.org/><br>
+https://www.kernel.org<br>
+https://www.linuxfoundation.org<br>
 
 <h3>리눅스의 역사</h3><br>
 1991년 헬싱키 공과 대학에서 리누스 토르발리스가 개발하였으며
