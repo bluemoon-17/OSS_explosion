@@ -86,5 +86,22 @@ https://www.mozilla.org/ko/firefox/new<br>
 
 <h2>시이라(シイラ)</h2><br>
 <img src = "https://github.com/bluemoon-17/OSS_explosion/blob/main/Image2/Shiira.png"><br>
+출시 : 2004년 4월 11일<br>
+개발 : 시이라 프로젝트<br>
+개발 언어 : 오브젝티브-C 코코아<br>
+운영 체제 : Mac OS X 10.4 이상<br>
+https://shiira.en.download.it/mac#google_vignette<br>
 
+<h3>시이라의 역사</h3><br>
+시이라는(shiira, シイラ) 일본어로 돌고래를 뜻하며 최초 릴리스는 2004년 4월 11일에 출시되었고
+Mac OS X 운영체제로 운영되다가 2009년 8월 11일 최종 릴리스를 발표한 후 프로젝트는 중단되었다.
+개발자인 마코토 키노시타에 따르면 시이라의 목표는 사파리보다 뛰어나고 유용한 브라위저를 만드는 것이라고 하였으나 2011년 12월 까지 개발자의 웹사이트는 제거되었다.<br>
 
+<h3>시이라의 특징</h3><br>
+1. Safari를 염두에 두고 개발되었기 때문에 Safari와 주요특징은 비슷하다.<br>
+2. 시이라는 개인 브라우징 옵션을 사용하여 활성화시 기록 및 쿠키가 기록되지 않지만 툴바의 검색 엔진 검색 필드에는 많은 검색 엔진이 포함되어 있다.<br>
+3. Cocoa 프로그래밍을 이용하여 좌측 또는 우측에서 확장되는 사용자 정의 간으 브라우저 제공<br>
+4. 기본적으로 브라우저 내에서 PDF 보기를 지원함<br>
+
+<h2>구글 크롬(Google Chrome)</h2><br>
+<img src = "https://github.com/bluemoon-17/OSS_explosion/blob/main/Image2/googlechrome.png"><br>
