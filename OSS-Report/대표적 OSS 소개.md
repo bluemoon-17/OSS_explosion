@@ -40,7 +40,7 @@ https://www.linuxfoundation.org<br>
 출시 : 2008년 9월 23일<br>
 개발 : 구글(Google)<br>
 개발 언어 : C, C++, Java, Rust<br>
-OS 계열 : 유닉스 계열, 리눅스
+OS 계열 : 유닉스 계열, 리눅스<br>
 https://www.android.com<br>
 https://developer.android.com/?hl=ko<br>
 
