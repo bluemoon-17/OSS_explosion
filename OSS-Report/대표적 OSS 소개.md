@@ -62,6 +62,11 @@ https://developer.android.com/?hl=ko<br>
 6. 추가 하드웨어 지원 : 안드로이드는 카메라, 터치스크린, GPS, 가속도계, 자력계, 트랙볼 2D 그래픽 가속, 3D 그래픽 가속을 활용할 수 있다.<br>
 7. 개발 환경 : 기기 에뮬레이터, 디버깅 도구, 메모리와 성능 프로파일링을 포함하는 안드로이드 스튜디오, 플랫폼 개발 키트인 PDK<br>
 
-<h2>파이어 폭스(Firefox)</h2><br>
+<h2>모질라 파이어 폭스(Firefox)</h2><br>
 <img src = "https://github.com/bluemoon-17/OSS_explosion/blob/main/Image2/firefox.png"><br>
+출시 : 2002년 9월 23일<br>
+개발자 : 모질라 코퍼레이션 및 유저<br>
+개발 언어 : C++, JavaScript, C, HTML, Rust<br>
+운영 체제 : 마이크로소프트 윈도우, macOS, Linux, Android, iOS<br>
+https://www.mozilla.org/ko/firefox/new<br>
 
