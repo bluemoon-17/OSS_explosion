@@ -12,6 +12,7 @@
 5. 구글 크롬(Google Chrome)<br>
 
 <h2>리눅스(Linux)</h2><br>
+![Linux](https://github.com/bluemoon-17/OSS_explosion/blob/main/Image2/Linux.png)<br>
 출시 : 1991년 9월 17일<br>
 개발자 : 리누스 토르발리스<br>
 프로그래밍 언어 : C언어, 어셈블리어<br>
