@@ -105,3 +105,8 @@ Mac OS X 운영체제로 운영되다가 2009년 8월 11일 최종 릴리스를 
 
 <h2>구글 크롬(Google Chrome)</h2><br>
 <img src = "https://github.com/bluemoon-17/OSS_explosion/blob/main/Image2/googlechrome.png"><br>
+출시 : 2008년 9월 2일(발표)<br>
+개발자 : 구글(Google)<br>
+개발 언어 : C, C++, Java(Android 전용), JavaScript, Python<br>
+운영 체제 : Android, Chrome OS, iOS, Linux, macOS, Microsoft Window<br>
+https://www.google.com/chrome<br>
