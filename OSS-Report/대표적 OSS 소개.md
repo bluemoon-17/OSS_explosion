@@ -51,4 +51,17 @@ https://developer.android.com/?hl=ko<br>
 
 <h3>안드로이드의 구성요소</h3><br>
 <img src="https://github.com/bluemoon-17/OSS_explosion/blob/main/Image2/andriod%EA%B5%AC%EC%A1%B0.png"><br>
+안드로이드는 응용 프로그램, 응용 프로그램 프레임워크, 라이브러리, 안드로이드 런타임, 리눅스 커널 총 5개의 계층으로 분류되어있다.<br>
+
+<h3>안드로이드의 특징</h3><br>
+1. 핸드셋 레이아웃 : 플랫폼은 VGA, 2D 그래픽스 라이브러리, OpenGL ES, 벌컨 (API)에 기반을 둔 3D 그래픽스 라이브러리를 확장하기에 유연한 설계가 가능하다.<br>
+2. 저장소 : 데이터 저장 목적의 SQLite 데이터베이스 소프트웨어가 사용된다.<br>
+3. 통신 : 블루투스, 와이파이를 포함하는 커넥션 기술을 지원<br>
+4. 메시징 : SMS, MMS, RCS 가능<br>
+5. 미디어 지원 : 오디오, 비디오, 이미지 포맷 지원<br>
+6. 추가 하드웨어 지원 : 안드로이드는 카메라, 터치스크린, GPS, 가속도계, 자력계, 트랙볼 2D 그래픽 가속, 3D 그래픽 가속을 활용할 수 있다.<br>
+7. 개발 환경 : 기기 에뮬레이터, 디버깅 도구, 메모리와 성능 프로파일링을 포함하는 안드로이드 스튜디오, 플랫폼 개발 키트인 PDK<br>
+
+<h2>파이어 폭스(Firefox)</h2><br>
+<img src = "https://github.com/bluemoon-17/OSS_explosion/blob/main/Image2/firefox.png"><br>
 
