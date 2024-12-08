@@ -8,13 +8,8 @@
 1. 리눅스(Linux)<br>
 2. 안드로이드(Andriod)<br>
 3. 모질라 파이어폭스(Firefox)<br>
-4. 시몽키(SeaMonkey)<br>
-5. 카미노(Camino)<br>
-6. 갈레온(Galeon)<br>
-7. 에피파니(Epiphany)<br>
-8. 컨커러(KonQueror)<br>
-9. 시이라(シイラ)<br>
-10. 구글 크롬(Google Chrome)<br>
+4. 시이라(シイラ)<br>
+5. 구글 크롬(Google Chrome)<br>
 
 <h2>리눅스(Linux)</h2><br>
 출시 : 1991년 9월 17일<br>
@@ -39,5 +34,18 @@ https://www.linuxfoundation.org<br>
 1. 배포자의 다양화 : 플랫폼이 개발되고 발달하면서 리눅스를 지원하는 프로그램 증가<br>
 2. App의 설치/관리 방법 : 여러가지 방법이 있다. 최근에 등장한 Flatpak, Snap, AppImage는 독립적이기 때문에 모든 배포판에서 사용 가능하며 설치시 권한을 필요로 하지 않기 때문에 의존성 문제에서도 자유롭다.<br>
 3. 상용 프로그램 : 리눅스 서버상에서 사용되는 프로그램은 대다수가 유료이다.<br>
-4. 다국어 지원 : 각 국가 사용자ㅐ 
+4. 다국어 지원 : 각 국가 사용자를 위해 다국어가 지원된다. 로마자, 라틴문자 지원을 잘되지만 한국어 지원은 약한 편이다.<br>
+
+<h2>안드로이드(Android)</h2><br>
+출시 : 2008년 9월 23일<br>
+개발 : 구글(Google)<br>
+개발 언어 : C, C++, Java, Rust<br>
+OS 계열 : 유닉스 계열, 리눅스
+https://www.android.com<br>
+https://developer.android.com/?hl=ko<br>
+
+<h3>안드로이드의 역사</h3><br>
+2005년 Google은 Andy Rubin이 세운 Andriod사를 인수하여 안드로이드 개발을 이어갔으며 안드로이드의 최초버전이 2008년 9월 23일에 출시되었다. 이후 Google은 같은해 10월 21일에 안드로이드를 오픈 소스로 선언하였다.<br>
+
+<h3>안드로이드의 구성요소</h3><br>
 
