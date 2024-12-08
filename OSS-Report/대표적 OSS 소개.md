@@ -49,4 +49,6 @@ https://developer.android.com/?hl=ko<br>
 2005년 Google은 Andy Rubin이 세운 Andriod사를 인수하여 안드로이드 개발을 이어갔으며 안드로이드의 최초버전이 2008년 9월 23일에 출시되었다. 이후 Google은 같은해 10월 21일에 안드로이드를 오픈 소스로 선언하였다.<br>
 
 <h3>안드로이드의 구성요소</h3><br>
+<img src="https://github.com/bluemoon
+  17/OSS_explosion/blob/main/Image2/andriod%EA%B5%AC%EC%A1%B0.png"><br>
 
